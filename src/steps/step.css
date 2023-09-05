@@ -1,0 +1,19 @@
+.shepherd-element.width-model {
+    width: auto;
+    height: 97.5%;
+    background-color: #ffffff;
+    overflow-y: auto;
+    overflow-x: hidden;
+    font-family: "72", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 8px;
+  }
+
+.shepherd-element.width-model .header{
+width: auto;
+height: 97.5%;
+background-color: #ffffff;
+overflow-y: auto;
+overflow-x: hidden;
+font-family: "72", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 8px;
+}
